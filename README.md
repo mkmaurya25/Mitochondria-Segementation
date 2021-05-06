@@ -1,4 +1,5 @@
 # Mitochondria-Segementation
+
 Semantic Segmentation of mitochondria.
 Semantic Segmentation is a pixel level classification which has many applications. 
 In this project a very basic method for segmentation of mitochodria in cell images has been implementad using U-Net.
