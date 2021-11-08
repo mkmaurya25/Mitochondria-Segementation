@@ -15,10 +15,6 @@ import cv2
 from PIL import Image
 from tensorflow.keras.utils import normalize
 
-print("The dir is", os.getcwd())
-
-os.chdir("C:\\Users\\M K Maurya\\Data Science\\Image Processing\\Mitochondria")
-print("The current dir is: ", os.getcwd())
 
 image_directory = 'data/train_imgs/'
 mask_directory = 'data/train_masks/'
